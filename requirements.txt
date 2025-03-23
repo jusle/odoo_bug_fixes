@@ -1,1 +1,1 @@
-phonenumbers==8.13.55 ; python_version >= '3.12'
+phonenumbers
