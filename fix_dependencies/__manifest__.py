@@ -7,7 +7,7 @@
     "author": "Ab Cetmix Nordic Oy",
     "website": "https://www.cetmix.fi",
     "category": "Technical",
-    "version": "18.0.1.0.0",
+    "version": "19.0.1.0.0",
     "license": "AGPL-3",
     "installable": True,
     "external_dependencies": {
